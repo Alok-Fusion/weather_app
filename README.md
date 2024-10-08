@@ -33,7 +33,7 @@ The app is built using **Flutter**, Google's UI toolkit, which enables fast, exp
 1. Make sure Flutter is installed on your system. You can follow the [Flutter installation guide](https://flutter.dev/docs/get-started/install).
 2. Clone this repository:
    ```bash
-   git clone https://github.com/x6TTG/weather_app.git
+   git clone https://github.com/Aolk-Kushwaha/weather_app.git
    ```
 3. Navigate to the project directory:
    ```bash
