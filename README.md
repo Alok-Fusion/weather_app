@@ -57,6 +57,7 @@ The app is built using **Flutter**, Google's UI toolkit, which enables fast, exp
 ## 📸 Screenshots
 
 ![image](https://github.com/user-attachments/assets/f1b5e016-2c82-4816-93e9-cdd6d29dbf77)
+![image](https://github.com/user-attachments/assets/d032d536-de6c-4919-b219-5f9207a2dc00)
 
 
 ## 🤝 Contributing
